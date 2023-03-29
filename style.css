@@ -88,7 +88,7 @@ a:hover {
 	font-size: 35px;
 }
 .list-inline:hover {
-	background-color: white;
+	background-color: lightgray;
 	color: black;
 }
 
